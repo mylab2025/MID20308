@@ -1,0 +1,26 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "32-bit MCU (3V3-LQFP48)",
+        "PN": "STM32L412C8T6",
+        "MF": "STMICROELECTRONICS"
+      },
+      "MID": "MID20308",
+      "MD": "STM32L412C8T6 part is 3V3 logic with LQFP48 package (48Pins). Max MCU Current = 140mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD;  Other Specs:  Ultra-low-power Arm® Cortex®-M4 32-bit MCU+FPU, 100DMIPS, up to 128KB flash, 40KB SRAM, analog, ext. SMPS. DB Note: Location to be allocate.",
+      "MT": "Electronic Material",
+      "MQNT": 5,
+      "MCost": 269.70,
+      "MQATG": "Electronic Material",
+      "ML": "",
+      "MDS": "",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": []
+    }
+  ]
+}
