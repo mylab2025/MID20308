@@ -2,16 +2,16 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "32-bit MCU (3V3-LQFP48)",
-        "PN": "STM32L412C8T6",
-        "MF": "STMICROELECTRONICS"
+        "Name": "MyLab Application v3.0",
+        "PN": "MYLAB2025_V3",
+        "MF": "gk.pcb"
       },
       "MID": "MID20308",
-      "MD": "STM32L412C8T6 part is 3V3 logic with LQFP48 package (48Pins). Max MCU Current = 140mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD;  Other Specs:  Ultra-low-power Arm® Cortex®-M4 32-bit MCU+FPU, 100DMIPS, up to 128KB flash, 40KB SRAM, analog, ext. SMPS. DB Note: Location to be allocate.",
+      "MD": "Developed by gk.pcb A Part of Mylab Applications, Current State: Production Release",
       "MT": "Electronic Material",
-      "MQNT": 5,
-      "MCost": 269.70,
-      "MQATG": "Electronic Material",
+      "MQNT": 100,
+      "MCost": 0.0,
+      "MQATG": "#CLASS_0",
       "ML": "",
       "MDS": "",
       "MAF1": "",
@@ -20,7 +20,9 @@
       "MAF4": "",
       "MAF5": "",
       "MR": "",
-      "MaterialImages": []
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/Mylab2025/MID20308/main/WhatsApp Image 2025-03-28 at 2.08.02 PM.jpeg"
+      ]
     }
   ]
 }
